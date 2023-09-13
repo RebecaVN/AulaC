@@ -1,5 +1,5 @@
-# Linguagem C: 
-> VETORES.
+# VETORES
+
 > Uma empresa deve desenvolver um programa para controlar o salário de todos os seus
 funcionários. As informações que ela mantém sobre cada funcionário são:
 +  Código do funcionario, nome, cargo e salário.
